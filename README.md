@@ -33,7 +33,7 @@ Version Control: Git & GitHub
 Clone the repository and run the project locally:
 
 # Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
+[git clone https://github.com/akshayyzx/digitalprospects-assignment.git ]
 
 # Navigate into the project directory
 cd dream-homepage
@@ -47,7 +47,7 @@ npm start
 
 Your app should now be running on:
 
-http://localhost:3000
+http://localhost:8080
 
 📁 Folder Structure
 dream-homepage/
@@ -80,8 +80,7 @@ Code formatted and linted for readability
 Akshay
 Frontend Developer
 
-📧 [your-email@example.com
-]
+📧 [https://github.com/akshayyzx]
 🔗 GitHub Profile
 
 📄 License
