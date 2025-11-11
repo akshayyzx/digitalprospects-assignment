@@ -1,73 +1,88 @@
-# Welcome to your Lovable project
+Assignment Project for Digital Prospects Consulting
+📋 Overview
 
-## Project info
+This project was developed as part of a technical assignment for Digital Prospects Consulting.
+It represents a modern, responsive homepage built using React.js, designed to demonstrate practical skills in front-end architecture, component design, responsive layouts, and UI consistency.
 
-**URL**: https://lovable.dev/projects/77f3da98-8f87-40e9-8994-d4e867fa20c6
+🚀 Features
 
-## How can I edit this code?
+Fully responsive landing page layout
 
-There are several ways of editing your application.
+Modular and reusable React components
 
-**Use Lovable**
+Modern UI design with TailwindCSS styling
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/77f3da98-8f87-40e9-8994-d4e867fa20c6) and start prompting.
+Smooth animations and hover effects
 
-Changes made via Lovable will be committed automatically to this repo.
+Clean and scalable folder structure
 
-**Use your preferred IDE**
+Lightweight and optimized for performance
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🛠️ Tech Stack
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Frontend: React.js, Tailwind CSS
 
-Follow these steps:
+Icons: Lucide React
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Package Management: npm / yarn
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Version Control: Git & GitHub
 
-# Step 3: Install the necessary dependencies.
-npm i
+📦 Installation & Setup
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Clone the repository and run the project locally:
 
-**Edit a file directly in GitHub**
+# Clone the repository
+[git clone https://github.com/akshayyzx/digitalprospects-assignment.git ]
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+# Navigate into the project directory
+cd dream-homepage
 
-**Use GitHub Codespaces**
+# Install dependencies
+npm install
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+# Start the development server
+npm start
 
-## What technologies are used for this project?
 
-This project is built with:
+Your app should now be running on:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+http://localhost:8080
 
-## How can I deploy this project?
+📁 Folder Structure
+dream-homepage/
+│
+├── src/
+│   ├── assets/             # Images and static resources
+│   ├── components/         # Reusable React components
+│   ├── pages/              # Page components
+│   ├── App.jsx             # Main app component
+│   ├── index.js            # Entry point
+│   └── styles/             # Global styles (if any)
+│
+├── public/                 # Public assets and index.html
+├── package.json
+├── tailwind.config.js
+└── README.md
 
-Simply open [Lovable](https://lovable.dev/projects/77f3da98-8f87-40e9-8994-d4e867fa20c6) and click on Share -> Publish.
+💡 Key Highlights
 
-## Can I connect a custom domain to my Lovable project?
+Pixel-perfect recreation of the provided design brief
 
-Yes, you can!
+Clean typography and color balance
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Semantic HTML structure
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Code formatted and linted for readability
+
+👨‍💻 Developer
+
+Akshay
+Frontend Developer
+
+📧 [https://github.com/akshayyzx]
+🔗 GitHub Profile
+
+📄 License
+
+This project was created as part of an assignment for Digital Prospects Consulting and is intended for demonstration purposes only.
